@@ -5,3 +5,5 @@ git tracks change of files.
 My stupid boss still prefers SVN.
 Create a new branch is quick.
 add a new xxx line on master.
+add a new line.
+
